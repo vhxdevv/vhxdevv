@@ -1,4 +1,4 @@
-<h1 align="center">Salve, eu sou o VH — aka vhxdevv 🧠⚙️</h1>
+<h1 align="center">Salve, eu sou o Victor Hugo — aka vhxdevv 🧠⚙️</h1>
 
 <p align="center">
   <i>Back-end Developer em formação • Python • Git • Projetos na prática</i>
@@ -11,7 +11,7 @@
 - 🔁 Transição de logística pra tech
 - 🔧 Estudando Python, lógica, Git e banco de dados
 - 🧪 Montando projetos reais e evoluindo no ritmo certo
-- 🚀 Sonho: ser dev back-end sinistro, trampando remoto
+- 🚀 Objetivo: se tornar um dev back-end brabo
 
 ---
 
