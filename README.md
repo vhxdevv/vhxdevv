@@ -1,4 +1,4 @@
-<h1 align="center">Salve, eu sou o Victor Hugo — aka vhxdevv 🧠⚙️</h1>
+<h1 align="center">Victor Hugo — vhxdevv 🧠⚙️</h1>
 
 <p align="center">
   <i>Back-end Developer em formação • Python • Git • Projetos na prática</i>
